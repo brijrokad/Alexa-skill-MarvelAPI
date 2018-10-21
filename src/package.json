@@ -14,7 +14,6 @@
     "superhero"
   ],
   "author": "Brij Rokad",
-  "license": "MIT",
   "dependencies": {
     "alexa-sdk": "^1.0.12"
   }
