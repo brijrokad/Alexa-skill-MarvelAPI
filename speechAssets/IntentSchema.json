@@ -22,7 +22,7 @@
       "slots": [
         {
           "name": "heroname",
-          "type": "AMAZON.FictionalCharacter",
+          "type": "AMAZON.Actor",
           "samples": []
         }
       ]
