@@ -29,16 +29,6 @@ To integrate an Alexa skill to this Lambda function you will need to go to the [
 ### Authors
 * **Brij R**
 
-### Local Testing
-There are two options to testing locally with `lambda-local`. The first option is command line and passing in the
-lambda function you want to test and the event json.
-```
-lambda-local -f index.js -e testEvent.json
-```
-
-```
-npm test
-```
 
 Either case these two commands simulates an alexa skills call to the AWS Lambda function. The environment file is called testEvent.json.
 
